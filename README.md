@@ -1,0 +1,1 @@
+#Python send random message cron for VK
